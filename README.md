@@ -269,8 +269,3 @@ This applies **only** to documentation. The source code remains under the [NOT F
 ArtificialCast is not a parody of future software.
 
 **It is future software.**
-
-There is no logic.
-Only structure.
-Only inference.
-Only BIGPISS.
